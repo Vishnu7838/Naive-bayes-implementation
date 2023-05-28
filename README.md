@@ -1,5 +1,5 @@
-# Kaggle-Titanic-Naive-Bayes
+Titanic-Naive-Bayes
 
-Applied Gaussian Naive Bayes algorithm on the Titanic data set from Kaggle.
+Applied Gaussian Naive Bayes algorithm on the Titanic data set
 
 #### Click on the Titanic.ipynb file to view the whole thing.
